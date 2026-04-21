@@ -1,11 +1,7 @@
 {
   "version": 2,
-  "buildCommand": "",
-  "outputDirectory": ".",
+  "outputDirectory": "public",
   "framework": null,
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
   "headers": [
     {
       "source": "/(.*)",
